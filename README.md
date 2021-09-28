@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joaolucas05
 - 👀 I’m interested in Back-End Develop
 - 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on Back-End Develop projects
+- 💞️ I’m looking to collaborate on Back-End Develop projects at Cogna
 - 📫 How to reach me joaolucas.silva@protonmail.com
 
 <!---
